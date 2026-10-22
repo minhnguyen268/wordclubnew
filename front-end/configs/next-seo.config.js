@@ -27,7 +27,7 @@ const NextSeoConfig = {
     description: "WORLD CLUBS",
     images: [
       {
-        url: "/assets/images-new/logo.png",
+        url: "/assets/images-new/background_bank.png",
         width: 1200,
         height: 628,
       },
